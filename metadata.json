@@ -1,0 +1,6 @@
+{
+  "name": "Cavaquinho Fácil",
+  "description": "App de estudos práticos para iniciantes no cavaquinho brasileiro com afinação Ré-Sol-Si-Ré, acordes interativos com áudio sintetizado, treinador de trocas, metrônomo e plano de estudos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
